@@ -2,15 +2,9 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Index JSP</title>
+        <title>Welcome</title>
     </head>
     <body>
-        <h1>INdex JSP</h1>
-
-        <form action="addAlien" method="post">
-            <input type="text" name="aid">
-            <input type="text" name="aname">
-            <input type="submit" value="Submit">
-        </form>
+        <h1>Welcome Page</h1>
     </body>
 </html>
